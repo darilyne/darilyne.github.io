@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/BST1.jpg
 title: "Binary Search Tree"
 date: 2025
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "My thoughts on learning binary search trees"
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/BST2.jpg">
 
 I created a binary search tree in C++ as part of a class in a previous semester.
 In this project, I practiced using nodes and pointers to traverse through the tree
