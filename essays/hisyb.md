@@ -10,7 +10,7 @@ labels:
   - WODs
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typescript-logo.png">
+<img width="300px" height="200px" class="rounded float-start pe-4" src="../img/typescript-logo.png">
 
 
 ## Evaluation of TypeScript
