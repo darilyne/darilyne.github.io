@@ -11,7 +11,7 @@ labels:
 summary: "My study of Japanese through the past couple years."
 ---
 
-<img class="img-fluid" src="../img/japanese-writing.jpg">
+<img class="img-fluid" src="../img/nihongo2.jpg">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
