@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Have I seen you before?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-02
 published: true
@@ -13,7 +13,7 @@ labels:
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
 
-## In the context of programming
+## Evaluation of TypeScript
 
   So far, I think TypeScript is a more approachable language considering TypeScript is a superset of JavaScript. I’ve never used TypeScript before, but I’m excited to use it along with HTML and CSS. The beginning of this course felt very similar to how it was when I was learning Java at LCC. They all have static variables, classes, constructors, interfaces, and generics. However, I also noticed TypeScript has enums just like C.
   
