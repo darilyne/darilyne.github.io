@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/BST1.jpg
+image: img/BST3.jpg
 title: "Binary Search Tree"
 date: 2025
 published: true
