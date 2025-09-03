@@ -13,6 +13,8 @@ summary: "My thoughts on learning binary search trees"
 
 <img width = "350px" height = "300px" class="img-fluid" src="../img/BST2.jpg">
 
+## Evaluation of TypeScript
+
 I created a binary search tree in C++ as part of a class in a previous semester.
 In this project, I practiced using nodes and pointers to traverse through the tree
 using recursion. 
