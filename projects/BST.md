@@ -11,14 +11,12 @@ labels:
 summary: "My thoughts on learning binary search trees"
 ---
 
-<img width = "350px" height = "300px" class="img-fluid" src="../img/BST2.jpg">
+<img width = "450px" height = "400px" class="img-fluid" src="../img/BST2.jpg">
 
-## Evaluation of TypeScript
 
 I created a binary search tree in C++ as part of a class in a previous semester.
 In this project, I practiced using nodes and pointers to traverse through the tree
 using recursion. 
-
   Through this assignment, I became more comfortable working with pointers and C++
 in general. I learned the concept of allocating memory for new nodes, as well as
 working with left and right pointers. Overall, this was probably my favorite project, 
