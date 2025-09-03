@@ -11,7 +11,7 @@ labels:
 summary: "My thoughts on learning binary search trees"
 ---
 
-<img width = "450px" height = "400px" class="img-fluid" src="../img/BST2.jpg">
+<img height = "550px" class="img-fluid" src="../img/BST2.jpg">
 
 
 I created a binary search tree in C++ as part of a class in a previous semester.
