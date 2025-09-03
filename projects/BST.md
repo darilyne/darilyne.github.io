@@ -11,7 +11,7 @@ labels:
 summary: "My thoughts on learning binary search trees"
 ---
 
-<img class="img-fluid" src="../img/BST2.jpg">
+<img width = "300px" height = "250px" class="img-fluid" src="../img/BST2.jpg">
 
 I created a binary search tree in C++ as part of a class in a previous semester.
 In this project, I practiced using nodes and pointers to traverse through the tree
