@@ -13,7 +13,7 @@ summary: "I learned mentorships skills tutoring during highschool."
 ---
 
 <div class="text-center p-4">
-  <img src="../img/math-tutor2.jpg" class="img-thumbnail" >
+  <img width="450px" height="400" src="../img/math-tutor2.jpg" class="img-thumbnail" >
 </div>
 
  In high school, I volunteered to be a math tutor, as I held a position in the National Honor Society.
