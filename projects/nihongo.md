@@ -11,7 +11,7 @@ labels:
 summary: "My study of Japanese through the past couple years."
 ---
 
-<img class="img-fluid" src="../img/nihongo2.jpg">
+<img height = "450px" class="img-fluid" src="../img/nihongo2.jpg">
 
 My personal reflection on learning a new language.
 
