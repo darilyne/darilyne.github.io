@@ -10,7 +10,7 @@ labels:
   - Goals
 ---
 
-<img width="425px" height="500px" class="rounded float-start pe-4" src="../img/robot-thinking.png">
+<img width="450px" height="525px" class="rounded float-start pe-4" src="../img/robot-thinking.png">
 
 ## Where it started
 
