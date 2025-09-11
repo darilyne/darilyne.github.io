@@ -11,7 +11,6 @@ labels:
   - Community
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
 ## SMART Questions?
 
@@ -26,9 +25,13 @@ labels:
 
   Here is a perfect example of a SMART question. The user clearly states the question, along with a coded example. They specifically state that they are working in Google Chrome and provide existing methods. They also once again restate that the Chrome element inspector can display CSS, showing that they have researched prior information on the topic and are now seeking extra help. These simple explanations eventually allowed someone in the comments to post a well-written solution to the issue with their own snippet of code and examples. 
 
+  <img width="1000px" class="rounded float-start pe-4" src="../img/smart-questions-1.png">
+
 ## Maybe Not so SMART
 
   Now, looking at non-SMART questions, this person has barely provided any  context to their problem. They do not display the efforts that were made to solve the issue independently. They simply copied and pasted the error message, most likely leaving helpers to piece together the pieces on their own. This wastes the time of both parties, most likely delaying the answer that could have been easily solved. This is not only bad for the community, but also horrible for your own learning process as a whole. In general, it is difficult to learn concepts and problem-solving skills when the answers are handed to you.
+
+  <img width="1000px" class="rounded float-start pe-4" src="../img/smart-questions-2.png">
 
 ## A Pretty SMART conclusion haha...
 
