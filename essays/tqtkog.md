@@ -21,7 +21,7 @@ labels:
   Now, why is this process important? By taking the time to understand the problem, you can better relay the information, context, errors, etc, to those who can provide their own insight on the issue. This process helps prevent duplicate questions and boosts time efficiency. 
   Proper documentation can not only help you, but also others who are dealing with the same issues. All around, properly communicating and displaying your code is a contribution to the community as a whole. As more people find the same solution to the issue at hand, there will be less need for others to spend their efforts and time repeating themselves for the sake of others. This also prevents contributors from having to ask questions to piece together the context that is missing. 
 
-  ## Now that is pretty SMART
+## Now that is pretty SMART
 
   Here is a perfect example of a SMART question. The user clearly states the question, along with a coded example. They specifically state that they are working in Google Chrome and provide existing methods. They also once again restate that the Chrome element inspector can display CSS, showing that they have researched prior information on the topic and are now seeking extra help. These simple explanations eventually allowed someone in the comments to post a well-written solution to the issue with their own snippet of code and examples. 
 
