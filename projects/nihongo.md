@@ -11,13 +11,13 @@ labels:
 summary: "My study of Japanese through the past couple years."
 ---
 
-<img height = "450px" class="img-fluid" src="../img/nihongo2.jpg">
+<img height = "450px" width = "400" class="img-fluid" src="../img/nihongo2.jpg">
 
 My personal reflection on learning a new language.
 
 <hr>
 
-<pre>
+
   In recent years, I have been studying Japanese, otherwise known as Nihongo, at UH Manoa.
 Before these courses, my knowledge of Nihongo was nearly nonexistent. I had many attempts
 to self-teach the language, but that was shortly cut off by a lack of motivation and discipline.
@@ -31,7 +31,6 @@ is pretty average. However, in future years, I'd like to strengthen my knowledge
 to widen my social networks and possibly job opportunities.
 
 
-</pre>
 
 <hr>
 
