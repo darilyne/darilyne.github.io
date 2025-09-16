@@ -11,15 +11,14 @@ labels:
 summary: "My study of Japanese through the past couple years."
 ---
 
-
-
-My personal reflection on learning a new language.
-
 <hr>
+
+## My personal reflection on learning a new language.
+
+
 <div class="text-center p-4">
 <img height = "450px" width = "400" class="img-fluid" src="../img/nihongo2.jpg">
 </div>
-
 
   In recent years, I have been studying Japanese, otherwise known as Nihongo, at UH Manoa.
 Before these courses, my knowledge of Nihongo was nearly nonexistent. I had many attempts
@@ -35,5 +34,5 @@ to widen my social networks and possibly job opportunities.
 
 
 
-<hr>
+
 
