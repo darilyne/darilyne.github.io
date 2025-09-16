@@ -16,8 +16,9 @@ summary: "My study of Japanese through the past couple years."
 My personal reflection on learning a new language.
 
 <hr>
-
+<div class="text-center p-4">
 <img height = "450px" width = "400" class="img-fluid" src="../img/nihongo2.jpg">
+</div>
 
 
   In recent years, I have been studying Japanese, otherwise known as Nihongo, at UH Manoa.
