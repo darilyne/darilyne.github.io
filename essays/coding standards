@@ -1,1 +1,36 @@
-//hello
+---
+layout: essay
+type: essay
+title: "Coding Standards, a Way of Life"
+# All dates must be YYYY-MM-DD format!
+date: 2025-09-24
+published: true
+labels:
+  - Coding Standards
+  - Formatting
+  - Coding Concepts
+---
+
+
+## What are Coding Standards?
+
+Coding standards are essential for all programmers to learn. These standards encompass a range of aspects, from basic formatting and documentation to integrating functions and handling errors.  Consistently following these sets of rules results in fewer bugs and performance issues. Clear coding standards enable programmers to create code that is both easy to understand and maintain on a personal and professional level. 
+When you think of coding standards, most people would instantly think of formatting, proper indentation, and syntax errors. However, most of it focuses on the content of the code itself. Implementing proper functions, conditionals, loops, arrays, etc, all serve different purposes while making the code more readable with better runtime performances. 
+
+  <div style="text-align: center;">
+  <img src="../img/smart-questions-1.png" width="600" style="padding-top: 16px; padding-bottom: 16px;" />
+</div> 
+
+## Learning Potential
+
+When learning a new programming language, it is very easy to get confused with so many new built-in functions and concepts. If you tough it out, though, you will eventually grasp every concept much faster than without these practices built in. For example, in our ICS 314, when functional programming was introduced, there were a ton of new array functions we had to learn to implement in such a short amount of time. However, constantly doing WODs and doing homework assignments focusing on implementing array functions rather than loops helped me better get a grasp on what each function does.
+For instance, if you had to make a program that helped track runners' scores given by their judges, you might want to use OOP to help you keep track of each runner’s score in a simple way. For example, you could define a runner class storing the names and scores of all runners along with functions like addScore(judge, score) to edit values simply through the console. Without putting these concepts into practice, you would just be juggling multiple arrays and unorganized data values that would likely not pass your test cases. 
+
+
+## Maybe Not so SMART
+
+
+
+## A Pretty SMART conclusion haha...
+
+ 
