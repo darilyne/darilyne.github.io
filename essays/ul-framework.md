@@ -17,7 +17,7 @@ labels:
   UI framework helps programmers develop interfaces in a more efficient way. It's basically a library of prebuilt building blocks that allow formatting simplicity. Style, components, and helpers, you name it, all of these can be simplified using UI framework. Once you take the time to learn it, you will most likely save a lot of time and brain power.
 
   <div style="text-align: center;">
-  <img src="../img/coding-standards.jpg" width="600" style="padding-top: 16px; padding-bottom: 16px;" />
+  <img src="../img/bootstrap-image.jpg" width="600" style="padding-top: 16px; padding-bottom: 16px;" />
 </div> 
 
 ## Now What is Bootstrap?
