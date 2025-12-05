@@ -11,7 +11,7 @@ labels:
 
 ## Main Idea
 Online student shop
-Maybe for dorm students who are moving out and want to make extra cash UH Marketplace\
+Maybe for dorm students who are moving out and want to make extra cash UH Marketplace
 
 ## Overview
 - Problem: Students need money, and also need to get rid of things, especially for students that dorm on campus.
