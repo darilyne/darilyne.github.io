@@ -11,7 +11,7 @@ labels:
 ---
 
 
-# ChatGPT my Best Friend
+# I Love AI
 
 AI has a chokehold on the tech and every other industry in the world at the moment. Some might say that AI is deteriorating our minds by giving us the easy way out. Which is understandable, however AI can also serve as a personal assistant rather than a full on cheat code. Me along with other colleagues who have used chatbots such as ChatGPT, all use AI to help us save time on fix errors. AI can also be used as a teaching tool especially in an educational stand point. Whenever there is a concept I do not understand, I always go to ChatGPT to get a more simplified and detailed explanation. 
 
