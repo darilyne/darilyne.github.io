@@ -11,7 +11,7 @@ labels:
 ---
 
 
-# Time is Money
+# $$$
 
 I made time estimations based on how long I personally believe each issue would take based on my own judgement. Although the estimates were not always accurate, however having them made me better understand my work habits and how I use my time. I used the knowledge on the top of my head from my pass assignments to judge my estimates rather than exact numbers. 
 
