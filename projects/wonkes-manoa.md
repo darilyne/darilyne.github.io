@@ -15,7 +15,7 @@ summary: "My ICS 314 group project."
 ---
 
 <div class="text-center p-4">
-  <img height="600 width="800" src="../img/firefox_wkPvBzDw33.png" class="img-thumbnail" >
+  <img height="600 width="800" src="../img/firefox_wkPvBzDw33.png" class="img-thumbnail">
 </div>
 
 # The Project
