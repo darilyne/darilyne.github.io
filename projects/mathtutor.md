@@ -4,7 +4,7 @@ type: project
 image: img/math-tutor1.jpg
 title: "Highschool Math Tutor"
 date: 2025
-published: true
+published: false
 labels:
   - Mentorship
   - Communication
