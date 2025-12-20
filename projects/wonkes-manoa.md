@@ -15,8 +15,6 @@ summary: "My ICS 314 group project."
 ---
 
 
-## The Project
-
 Wonkes is a web-based marketplace application designed for University of Hawaiʻi at Mānoa (UHM) students. The purpose of the project is to provide a secure, student-focused platform where users can buy and sell items within the campus community. By limiting access to verified students, Wonkes helps reduce scams and makes peer-to-peer exchanges safer and more convenient.
 
 The application allows users to browse listings, view item details, and interact with a clean and organized user interface. Wonkes emphasizes usability, accessibility, and a consistent design across all pages. The project was developed as part of the ICS 314 Software Engineering course and deployed online for public access.
